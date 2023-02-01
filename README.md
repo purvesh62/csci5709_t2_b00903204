@@ -19,4 +19,4 @@
 ### References
 - [React](https://reactjs.org/)
 - [Create react app using vite](https://vitejs.dev/guide/)
-- [Netlify - deploy react application on netlify]()
+- [Netlify - deploy react application on netlify](https://main--chimerical-genie-fa10a5.netlify.app/)
